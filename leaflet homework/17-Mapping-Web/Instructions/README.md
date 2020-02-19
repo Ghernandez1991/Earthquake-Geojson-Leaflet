@@ -1,4 +1,5 @@
-
+DEPLOYED LINK
+https://json-earthquake-map.herokuapp.com/
 
 ## Background
 
